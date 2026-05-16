@@ -3,7 +3,8 @@
     "allow": [
       "Bash(ls -la \"d:\\\\1mydict\\\\java_study\\\\aishoping\\\\docfile\\\\\")",
       "Read(//d/1mydict/java_study/aishoping/**)",
-      "Bash(git init *)"
+      "Bash(git init *)",
+      "Bash(git push *)"
     ]
   }
 }
